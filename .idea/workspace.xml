@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d17aabfb-362b-4d1b-bdba-9b1b9632767d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/old/CafeMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/old/CafeMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/old/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/old/DinerMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/old/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/old/DinerMenuIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/old/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/old/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/old/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/old/MenuTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/old/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/old/PancakeHouseMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/old/PancakeHouseMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/old/PancakeHouseMenuIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/old/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/old/Waitress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try1/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try1/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try1/MenuComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try1/MenuComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try1/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try1/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try1/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try1/MenuTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try1/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try1/Waitress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try1/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try2/CompositeIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/CompositeIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try2/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try2/MenuComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/MenuComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try2/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try2/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/MenuTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try2/NullIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/NullIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try2/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/Waitress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try2/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Printer.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,7 +29,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="61" />
+          <entry key="java" value="85" />
           <entry key="md" value="2" />
           <entry key="txt" value="1" />
           <entry key="xml" value="1" />
@@ -58,7 +37,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="61" />
+          <entry key="JAVA" value="85" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="1" />
@@ -66,8 +45,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="16" />
-          <entry key="java" value="4954" />
+          <entry key="dummy" value="21" />
+          <entry key="java" value="6928" />
           <entry key="md" value="311" />
           <entry key="txt" value="108" />
           <entry key="xml" value="11" />
@@ -75,9 +54,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4954" />
+          <entry key="JAVA" value="6928" />
           <entry key="Markdown" value="311" />
-          <entry key="PLAIN_TEXT" value="124" />
+          <entry key="PLAIN_TEXT" value="129" />
           <entry key="XML" value="11" />
         </counts>
       </usages-collector>
@@ -85,11 +64,135 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Window.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#266#283#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/CheckBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <folding>
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Frame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#265#282#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Printer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/WindowTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/PasswordBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+              <folding>
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Picture.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+              <folding>
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/WindowComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/MenuComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Label.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+              <folding>
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/TextBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+              <folding>
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,17 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/MenuItem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/PancakeHouseMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/DinerMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/old/OrderMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/old/PancakeHouseMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/old/OrderMenuImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/try1/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/try1/DinerMenuIterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/old/DinerMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/try1/DinerMenu.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/try1/PancakeHouseMenuIterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/try1/PancakeHouseMenu.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/iterator/demo1/try1/OrderMenuImpl.java" />
@@ -167,6 +259,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try2/MenuItem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/try2/CompositeIterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Printer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Lable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/LinkLable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Label.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Button.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Window.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/WindowComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Frame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Picture.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/PasswordBox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/CheckBox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/TextBox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/WindowTestDrive.java" />
       </list>
     </option>
   </component>
@@ -240,6 +344,37 @@
               <item name="chaoqiang" type="462c0819:PsiDirectoryNode" />
               <item name="composite" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chaoqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chaoqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="try2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chaoqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -274,7 +409,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MenuTestDrive (3)">
+  <component name="RunManager" selected="Application.WindowTestDrive">
     <configuration name="MenuTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chaoqiang.structural.composite.old.MenuTestDrive" />
       <module name="design-pattern" />
@@ -327,14 +462,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WindowTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chaoqiang.structural.composite.demo2.WindowTestDrive" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chaoqiang.structural.composite.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.MenuTestDrive" />
       <item itemvalue="Application.MenuTestDrive (1)" />
       <item itemvalue="Application.MenuTestDrive (2)" />
       <item itemvalue="Application.MenuTestDrive (3)" />
+      <item itemvalue="Application.WindowTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WindowTestDrive" />
         <item itemvalue="Application.MenuTestDrive (3)" />
         <item itemvalue="Application.MenuTestDrive (2)" />
         <item itemvalue="Application.MenuTestDrive (1)" />
@@ -352,12 +502,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602055076818</updated>
-      <workItem from="1602055078627" duration="10104000" />
+      <workItem from="1602055078627" duration="13375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10104000" />
+    <option name="totallyTimeSpent" value="13375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -378,7 +528,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.6178344" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -708,66 +858,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/MenuComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
-          <folding>
-            <element signature="e#1359#1360#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/MenuItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-          <folding>
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/Waitress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/CompositeIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        <state relative-caret-position="255">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-            <element signature="e#1150#1151#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/MenuTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/MenuTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/LinkLable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo1/try2/MenuComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/WindowComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#266#283#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#282#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/Picture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/PasswordBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding>
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/CheckBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/TextBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chaoqiang/structural/composite/demo2/WindowTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
