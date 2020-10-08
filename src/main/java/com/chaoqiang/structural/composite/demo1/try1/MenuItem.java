@@ -1,9 +1,7 @@
-package com.chaoqiang.structural.composite.try2;
+package com.chaoqiang.structural.composite.demo1.try1;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-
-import java.util.Iterator;
 
 /**
  * @author chaoqiang
@@ -29,10 +27,5 @@ class MenuItem extends MenuComponent {
         }
         System.out.println(", " + getPrice());
         System.out.println("    -- " + getDescription());
-    }
-
-    @Override
-    public Iterator createIterator() {
-        return new NullIterator();
     }
 }

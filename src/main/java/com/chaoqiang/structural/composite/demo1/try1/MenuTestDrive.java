@@ -1,4 +1,4 @@
-package com.chaoqiang.structural.composite.try1;
+package com.chaoqiang.structural.composite.demo1.try1;
 
 /**
  * @author chaoqiang

@@ -1,4 +1,4 @@
-package com.chaoqiang.structural.composite.old;
+package com.chaoqiang.structural.composite.demo1.old;
 
 import com.chaoqiang.behavior.iterator.demo1.old.MenuItem;
 

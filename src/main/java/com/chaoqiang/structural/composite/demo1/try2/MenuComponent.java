@@ -1,4 +1,6 @@
-package com.chaoqiang.structural.composite.try1;
+package com.chaoqiang.structural.composite.demo1.try2;
+
+import java.util.Iterator;
 
 /**
  * @author chaoqiang
@@ -35,6 +37,10 @@ abstract class MenuComponent {
     }
 
     public void print() {
+        throw new UnsupportedOperationException();
+    }
+
+    public Iterator createIterator() {
         throw new UnsupportedOperationException();
     }
 }
